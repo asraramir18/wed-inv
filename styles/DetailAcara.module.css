@@ -1,0 +1,11 @@
+.container {
+    padding: 0 0rem;
+  }
+
+.cardContainerAcara {
+    display: flex;
+    flex-direction: row;
+    background-color: #B2B8A3;
+    padding: 10px;
+    border-radius: 20px;
+}
